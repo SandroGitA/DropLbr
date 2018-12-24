@@ -1,6 +1,5 @@
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\bin\Debug\DropLbr.dll
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\bin\Debug\DropLbr.pdb
-C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr.csprojAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\UserControl1.g.cs
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr_MarkupCompile.cache
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr_MarkupCompile.lref
@@ -11,3 +10,4 @@ C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\Dr
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr.dll
 C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\DropLbr\DropLbr\obj\Debug\DropLbr.csprojAssemblyReference.cache

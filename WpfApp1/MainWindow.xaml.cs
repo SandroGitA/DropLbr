@@ -11,9 +11,6 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-
-            Drop drop = new Drop();
-            MainGrid.Children.Add(drop);
         }
     }
 }
