@@ -8,6 +8,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="450">
     <Grid Name="MainGrid">
-        <DropLbr:Drop ItemCount="2"></DropLbr:Drop>
+        <DropLbr:Drop ItemCount="4"></DropLbr:Drop>
     </Grid>
 </Window>
